@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-b",
-      "name": "農田",
+      "name": "B",
       "levels": [
         {
           "tileSize": 256,
@@ -44,7 +44,7 @@ var APP_DATA = {
     },
     {
       "id": "1-c",
-      "name": "玩家的基地",
+      "name": "C",
       "levels": [
         {
           "tileSize": 256,
@@ -74,7 +74,7 @@ var APP_DATA = {
     },
     {
       "id": "2-d",
-      "name": "破圖的魔劍",
+      "name": "D",
       "levels": [
         {
           "tileSize": 256,
@@ -108,7 +108,7 @@ var APP_DATA = {
     },
     {
       "id": "3-a",
-      "name": "雪山",
+      "name": "A",
       "levels": [
         {
           "tileSize": 256,
